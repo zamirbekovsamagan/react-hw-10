@@ -1,0 +1,10 @@
+.user{
+    box-sizing: border-box;
+    width: 400px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background-color: rgb(18, 201, 192);
+    font-size: 18px;
+    padding: 10px;
+}
